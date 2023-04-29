@@ -4,7 +4,6 @@
 # while
 
 n = int(input("Введите число:"))
-# n = int(n)
 if n < 0:
     print('число отриц')
 else:
